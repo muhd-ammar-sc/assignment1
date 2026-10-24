@@ -14,7 +14,7 @@ Ambulance and fire-and-rescue crews in Malaysian urban areas are delayed at sign
 Supervised machine learning (Decision Tree, Random Forest, LSTM) using Python, scikit-learn and Pandas.
 
 ## Status
-Planning stage (CSC649 Assignment 1). The system has not been built yet.
+Assignment 1 completed: problem formulation, requirements and user stories documented. Next step: data collection and model selection.
 
 ## Author
 Muhammad Ammar bin Mohd Azham
