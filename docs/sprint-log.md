@@ -8,9 +8,9 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | To do |Add acceptance criteria to each user story
-| #2 | | To do |Number the requirements and link each story to one
-| #3 | | To do |Add structure and roadmap to the README
+| #1 |Add acceptance criteria to each user story | To do |
+| #2 |Number the requirements and link each story to one | To do |
+| #3 |Add structure and roadmap to the README | To do |
 
 ### Daily standup notes
 - Standup 1: I will start with task #1 (add acceptance criteria to each user story), then move on to numbering the requirements (#2) and updating the README (#3). A possible blocker is that I am still new to working with branches and pull requests in the terminal.
