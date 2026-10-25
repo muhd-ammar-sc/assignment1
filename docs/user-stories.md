@@ -1,5 +1,6 @@
 # User Stories
 
+
 **Project:** Sentiment-Aware Traffic Light Scheduling Optimization for Emergency Vehicle Pre-emption
 
 ---
@@ -8,7 +9,7 @@
 
 > **As an** ambulance driver,
 > **I want** the junction lights to clear when I approach,
-> **so that** I can pass through without stopping and reach the patient faster.
+> **so that** I can pass through without stopping and reach the patient faster. **(FR3, FR4)**
 
 **Linked requirements:** FR3, FR4
 
@@ -23,7 +24,7 @@
 
 > **As a** traffic authority officer,
 > **I want** to see the predicted congestion level of each junction,
-> **so that** I can plan routes for emergency vehicles in advance.
+> **so that** I can plan routes for emergency vehicles in advance. **(FR2, FR6)**
 
 **Linked requirements:** FR2, FR6
 
@@ -38,7 +39,7 @@
 
 > **As a** traffic authority officer,
 > **I want** each pre-emption event to be recorded,
-> **so that** I can review how often and where emergency vehicles were given priority.
+> **so that** I can review how often and where emergency vehicles were given priority. **(FR7)**
 
 **Linked requirements:** FR7
 
@@ -56,3 +57,5 @@
 | US1 | Ambulance driver | FR3, FR4 |
 | US2 | Traffic authority officer | FR2, FR6 |
 | US3 | Traffic authority officer | FR7 |
+
+All requirement IDs refer to [requirements.md](requirements.md).
