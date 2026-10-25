@@ -43,7 +43,7 @@
 **Linked requirements:** FR7
 
 **Acceptance criteria:**
-1. Each recorded event shows the date, time and junction.
+1. Each recorded event shows date, time and junction.
 2. Events can be filtered by junction.
 3. A new event appears in the log immediately after a pre-emption is triggered.
 
